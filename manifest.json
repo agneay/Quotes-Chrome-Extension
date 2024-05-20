@@ -1,0 +1,11 @@
+{
+    "manifest_version":3,
+    "name":"Quotes101",
+    "version":"1.0",
+    "description":"A lightweight motivational quotes providing extension",
+    "action":{
+        "default_popup":"popup.html",
+        "default_title":"Quotes101",
+        "default_icon":"logo.png"
+    }
+}
